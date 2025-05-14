@@ -7,7 +7,7 @@
     <div v-if="showBanner" class="top-info-banner">
       <div class="banner-content">
         <el-icon><Bell /></el-icon>
-        <span>特别通知：CILIKUBE v0.1.0 版本现已发布，带来性能优化与新功能！ <a href="https://cilikube.cillian.website" target="_blank">查看详情</a></span>
+        <span>特别通知：CILIKUBE v0.1.1 版本现已发布，带来性能优化与新功能！ <a href="https://cilikube.cillian.website" target="_blank">查看详情</a></span>
       </div>
       <el-icon class="close-banner-icon" @click="hideBanner"><Close /></el-icon>
     </div>
